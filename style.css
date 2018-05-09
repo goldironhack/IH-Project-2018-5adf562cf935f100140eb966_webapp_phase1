@@ -1,9 +1,5 @@
-body {
-    color: #444;
-    font-family: Arial, sans-serif;
-}
+#map{
+    min-height: 500px;
+    max-widht:300px;
 
-.container {
-    width: 100%;
-    max-width: 960px;
 }
